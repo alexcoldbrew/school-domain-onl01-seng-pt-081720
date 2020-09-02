@@ -24,6 +24,8 @@ class School
     hash = {}
     roster.each do |x, y|
       hash[x] = y.sort
+    end
+    hash
   end
   
 end
