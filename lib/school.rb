@@ -13,7 +13,8 @@ class School
   end
   
   def grade(grade)
-    roster.detect do 
+    roster.detect do |x, y|
+      
   end
   
 end
