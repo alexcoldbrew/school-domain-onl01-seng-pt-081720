@@ -22,7 +22,7 @@ class School
   
   def sort
     hash = {}
-    
+    roster.each do ||
   end
   
 end
